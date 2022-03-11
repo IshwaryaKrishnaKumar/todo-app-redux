@@ -1,0 +1,7 @@
+.box {
+    margin: 4rem auto 4rem auto;
+    padding: 2rem;
+    border: solid 1px red;
+    border-radius: 1rem;
+    max-width: 48rem;
+  }
